@@ -1,0 +1,20 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@framer/framer.device-skin-apple-iphone8-gold": "^1.0.0",
+		"@framer/framer.device-skin-apple-iphone8-silver": "^1.0.0",
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "d1511eb7-e93d-4b64-9537-242d0de5ec99"
+	},
+	"author": "Tom G",
+	"dependencies": {
+		"@framer/knaman01.blinking-cursor": "^1.1.0"
+	}
+}
