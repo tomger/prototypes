@@ -1,0 +1,18 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@framer/framer.device-hand-iphone-1": "^1.0.0",
+		"@framer/framer.device-hand-iphone-2": "^1.0.0",
+		"@framer/framer.device-skin-apple-iphone8-silver": "^1.0.0",
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "05f26bca-2051-4893-bd63-e1a672595f98"
+	},
+	"author": "Tom G"
+}
